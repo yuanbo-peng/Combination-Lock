@@ -21,7 +21,7 @@ In this project, the Nexys 4 DDR starter board produced by Digilent will be used
 
 <center>
 
-<img src="http://gogo-static.yunxiangshijue.com/Nexys%204%20DDR%20FPGA%20Board.png" width="50%">
+<img src="figures/Nexys%204%20DDR%20FPGA%20Board.png" width="50%">
 
 </center>
 
@@ -44,7 +44,7 @@ The user interface will operate as follows:
 
 <center>
 
-<img src="http://gogo-static.yunxiangshijue.com/FSMD.png" width="70%">
+<img src="figures/FSMD.png" width="70%">
 
 </center>
 
@@ -56,7 +56,7 @@ Because the buttons are mostly mechanical switches, the signal instability will 
 
 <center>
 
-<img src="http://gogo-static.yunxiangshijue.com/Debounce%20Algorithm.png" width="70%">
+<img src="figures/Debounce%20Algorithm.png" width="70%">
 
 </center>
 
@@ -84,12 +84,12 @@ The main purpose of this part of the design is to enhance the user experience, d
 - The display of *‘OK’* and *‘Err’* will be alternate at one second intervals with display of the number entered.
 <center>
 
-<img src="http://gogo-static.yunxiangshijue.com/ERR.png" width="50%">
+<img src="figures/ERR.png" width="50%">
 
 </center>
 <center>
 
-<img src="http://gogo-static.yunxiangshijue.com/OK.png" width="50%">
+<img src="figures/OK.png" width="50%">
 
 </center>
 
@@ -129,7 +129,7 @@ The initialization status is *INI_R*. When the *BTNR* button is pressed, all sta
 
 <center>
 
-<img src="http://gogo-static.yunxiangshijue.com/The%20Diagram%20of%20Improved%20User%20Interface%20Lock.png" width="70%">
+<img src="figures/The%20Diagram%20of%20Improved%20User%20Interface%20Lock.png" width="70%">
 
 </center>
 
